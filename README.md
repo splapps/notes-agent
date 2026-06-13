@@ -1,2 +1,2 @@
 # notes-agent
-Notepad for managin daily work
+Notepad for managing daily work
